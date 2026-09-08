@@ -1,0 +1,198 @@
+/*
+ * Feuille de style pour la génération du PDF à partir de REGLEMENT.md.
+ * Reproduit la charte du document Word original (data/*.docx) :
+ * police Arial, A4, marges 2,54 cm, titres verts, hiérarchie de gris.
+ *
+ * Usage :
+ *   npx md-to-pdf REGLEMENT.md --stylesheet tools/pdf/style.css
+ *   pandoc REGLEMENT.md -o REGLEMENT.pdf --pdf-engine=wkhtmltopdf --css tools/pdf/style.css
+ */
+
+@page {
+  size: A4;
+  margin: 2.54cm;
+}
+
+html {
+  font-size: 11pt;
+}
+
+body {
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 11pt;
+  line-height: 1.15;
+  color: #000000;
+  text-align: justify;
+}
+
+/* --- Page de titre (les 3 premiers blocs du document) ---
+ * Scopés avec "body >" pour ne cibler que les tout premiers éléments
+ * du document, et non le <p>/<blockquote> du premier <li> ou d'une
+ * citation venus plus loin dans le texte (:first-of-type se calcule
+ * par parent, pas globalement). */
+
+body > p:first-of-type {
+  text-align: center;
+  margin-top: 3.5cm;
+}
+
+body > p:first-of-type strong {
+  color: #38761d;
+  font-size: 12pt;
+  font-weight: bold;
+  letter-spacing: 0.5px;
+}
+
+body > h1:first-of-type {
+  text-align: center;
+  color: #38761d;
+  font-size: 40pt;
+  font-weight: bold;
+  margin: 0.4cm 0 0.6cm;
+  page-break-before: avoid;
+  page-break-after: avoid;
+}
+
+body > h1:first-of-type::after {
+  content: "———————————————";
+  display: block;
+  font-size: 12pt;
+  font-weight: normal;
+  color: #38761d;
+  margin: 0.3cm 0;
+}
+
+body > p:nth-of-type(2) {
+  text-align: center;
+}
+
+body > p:nth-of-type(2) em {
+  color: #444444;
+  font-size: 20pt;
+  font-style: normal;
+}
+
+body > blockquote:first-of-type {
+  text-align: center;
+  font-style: italic;
+  color: #666666;
+  font-size: 9pt;
+  border: none;
+  margin: 3cm 1.5cm 0;
+  padding: 0;
+}
+
+body > blockquote:first-of-type + * {
+  page-break-before: always;
+}
+
+/* --- Titres du corps du règlement --- */
+
+h1 {
+  color: #38761d;
+  font-size: 20pt;
+  font-weight: bold;
+  margin: 0 0 0.3cm;
+  page-break-before: always;
+  page-break-after: avoid;
+}
+
+h2 {
+  color: #38761d;
+  font-size: 16pt;
+  font-weight: bold;
+  margin: 0.6cm 0 0.3cm;
+  page-break-after: avoid;
+}
+
+h3 {
+  color: #434343;
+  font-size: 14pt;
+  font-weight: bold;
+  margin: 0.5cm 0 0.2cm;
+  page-break-after: avoid;
+}
+
+h4 {
+  color: #666666;
+  font-size: 12pt;
+  font-weight: bold;
+  margin: 0.4cm 0 0.15cm;
+  page-break-after: avoid;
+}
+
+/* --- Texte courant --- */
+
+p {
+  margin: 0 0 0.3cm;
+  orphans: 3;
+  widows: 3;
+}
+
+strong {
+  font-weight: bold;
+}
+
+em {
+  font-style: italic;
+}
+
+a {
+  color: #1155cc;
+  text-decoration: underline;
+}
+
+blockquote {
+  margin: 0.3cm 0 0.3cm 0.6cm;
+  padding-left: 0.4cm;
+  border-left: 3px solid #38761d;
+  color: #434343;
+  font-style: italic;
+}
+
+ul,
+ol {
+  margin: 0 0 0.3cm;
+  padding-left: 1.1cm;
+}
+
+li {
+  margin-bottom: 0.15cm;
+}
+
+li::marker {
+  color: #38761d;
+}
+
+/* --- Tableaux (ex. planning hebdomadaire) --- */
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 0.4cm 0 0.6cm;
+  font-size: 10pt;
+}
+
+th,
+td {
+  border: 1px solid #cccccc;
+  padding: 0.2cm 0.3cm;
+  text-align: left;
+  vertical-align: top;
+}
+
+th {
+  background-color: #38761d;
+  color: #ffffff;
+  font-weight: bold;
+}
+
+tr:nth-child(even) td {
+  background-color: #f3f6f1;
+}
+
+hr {
+  border: none;
+  border-top: 1px solid #cccccc;
+  margin: 0.6cm 0;
+}
