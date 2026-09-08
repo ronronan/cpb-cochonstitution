@@ -42,7 +42,7 @@ Ce règlement s'adresse à tous les membres : joueurs, coachs et encadrants. Que
 
 - Nicolas – Le « Gourou »
 
-- Sacha – « L’entraineur »
+- Sacha – « L’entraîneur »
 
 - Julien – Le « coach victorieux »
 
@@ -110,33 +110,33 @@ Pour ceux qui éprouvent des difficultés à utiliser l’outil en début de sai
 
 Les réponses aux sondages sont **obligatoires :**
 
-- Pour les entrainements. Une présence à un entrainement, qu’elle soit positive ou négative, doit être complétée, au plus tard, **à 21 h la veille au soir** du créneau concerné.
+- Pour les entraînements. Une présence à un entraînement, qu’elle soit positive ou négative, doit être complétée, au plus tard, **à 21 h la veille au soir** du créneau concerné.
 
 - Pour les matchs (weekend ET semaine). Les disponibilités au match sont à donner, au plus tard, le mercredi soir 21 h pour toutes les équipes.
 
-Tout oubli ou absence de réponse à un sondage est soumis à une amende à la caisse noire*. Il en va de même pour tout changement d’une réponse déjà donnée moins de 24 h avant l’entrainement ou le match concerné : l’amende s’applique par défaut et le changement doit être justifié devant la cour judiciaire*. Tout cumul d’absence de réponse peut aussi engendrer des peines supplémentaires, notamment sur la remise en cause à la participation à un match.
+Tout oubli ou absence de réponse à un sondage est soumis à une amende à la caisse noire*. Il en va de même pour tout changement d’une réponse déjà donnée moins de 24 h avant l’entraînement ou le match concerné : l’amende s’applique par défaut et le changement doit être justifié devant la cour judiciaire*. Tout cumul d’absence de réponse peut aussi engendrer des peines supplémentaires, notamment sur la remise en cause à la participation à un match.
 
-# Organisation des entrainements
+# Organisation des entraînements
 
-Les entrainements, pour le groupe 4-5, sont :
+Les entraînements, pour le groupe 4-5, sont :
 
 - **Le mardi de 20 H 00 à 21 H 45** et se déroulera à la salle Montbarrot (14 Rue de Gascogne).
 
 - **Le jeudi de 20 H 00 à 21 H 45** et aura lieu à la salle Rapatel (3 Rue Rapatel).
 
-Pour chaque entrainement, l’heure de l’entrainement ne comprend pas le temps de se changer, donc il faut être en TENUE à l’heure de début de l’entrainement.
+Pour chaque entraînement, l’heure de l’entraînement ne comprend pas le temps de se changer, donc il faut être en TENUE à l’heure de début de l’entraînement.
 
-Pas d’entrainements pendant les vacances de Noël et selon les disponibilités des salles durant certaines périodes de l’année (vacances scolaires, événement spécial, …).
+Pas d’entraînements pendant les vacances de Noël et selon les disponibilités des salles durant certaines périodes de l’année (vacances scolaires, événement spécial, …).
 
-Hors urgences ou imprévu (prévenu par la suite), une absence non prévenue deux heures avant le début de l’entrainement via SMS/WhatApp est punie\*.
+Hors urgences ou imprévu (prévenu par la suite), une absence non prévenue deux heures avant le début de l’entraînement via SMS/WhatApp est punie\*.
 
 Les joueurs ayant des emplois du temps variables et qui risqueraient d’arriver régulièrement en retard, ou d’être absent en dernières minutes ponctuellement doivent le signaler en début de saison, ou en cas de changement de situation. Même si certaines situations sont déjà connues, un rappel ne fait jamais de mal.
 
-Vous aurez à charge du matériel qui vous sera confié en début de saison. Le kit de matériel comprend : une chasuble rouge/orange/bleu, une chasuble verte/jaune et un ballon taille 3. La responsabilité du matériel comprend le lavage des chasubles et l’entretien de votre ballon. Comme chacun a son propre matériel, chaque joueur se doit de l’amener à l’entrainement et à chaque match également. Un oubli de matériel ou d’un équipement personnel (short, t-shirt, chaussettes, chaussures, …) est soumis à une amende\*, si l’on ne trouve pas d’âme charitable pendant les entrainements.
+Vous aurez à charge du matériel qui vous sera confié en début de saison. Le kit de matériel comprend : une chasuble rouge/orange/bleu, une chasuble verte/jaune et un ballon taille 3. La responsabilité du matériel comprend le lavage des chasubles et l’entretien de votre ballon. Comme chacun a son propre matériel, chaque joueur se doit de l’amener à l’entraînement et à chaque match également. Un oubli de matériel ou d’un équipement personnel (short, t-shirt, chaussettes, chaussures, …) est soumis à une amende\*, si l’on ne trouve pas d’âme charitable pendant les entraînements.
 
 # Match, Joueurs, Coach, Table de marque, arbitrage
 
-De même que pour les retards aux entrainements, les retards aux horaires de convocation aux matchs sont punis*. Chaque responsable des transports pour les groupes aura la charge de noter les noms des retardataires. Un comportement inapproprié durant un match est soumis à une sanction*. Cela inclut tous les cartons rouges directs, ainsi que les deux minutes subies à la suite d’une contestation d’arbitrage.
+De même que pour les retards aux entraînements, les retards aux horaires de convocation aux matchs sont punis*. Chaque responsable des transports pour les groupes aura la charge de noter les noms des retardataires. Un comportement inapproprié durant un match est soumis à une sanction*. Cela inclut tous les cartons rouges directs, ainsi que les deux minutes subies à la suite d’une contestation d’arbitrage.
 
 Au long de la saison, il y aura besoin d’un minimum d’investissement de chacun pour les **tables de marque** et **arbitrages** d’autres équipes du CPB. Il y a désignation de personnes à chaque week-end de match où l’on nous requiert des joueurs. Si une personne désignée ne peut pas être disponible, c’est à cette même personne de trouver elle-même son remplaçant. La répartition se veut homogène, tout le monde doit participer.
 
@@ -148,9 +148,9 @@ Les résumés de matchs sont l’occasion de se tenir informé, de faire vivre l
 
 Le capitaine du match a la responsabilité, en dehors de véhiculer une bonne image du groupe et du club, de superviser les votes de Freezeberg et Goodberg du match. Il doit s’assurer aussi qu’il y a un joueur désigné pour faire le résumé. S’il oublie ce dernier, alors le résumé lui revient. Pour rappel, le joueur qui a reçu la Goodberg désigne celui qui se charge du résumé.
 
-Un oubli de faire le résumé avant l’entrainement du jeudi suivant le match concerné est soumis à une amende\*. Il doit aussi le faire rapidement, au risque d’agrandir son amende.
+Un oubli de faire le résumé avant l’entraînement du jeudi suivant le match concerné est soumis à une amende\*. Il doit aussi le faire rapidement, au risque d’agrandir son amende.
 
-La Freezeberg gagne l’obligation de vouvoyer ses coéquipiers lors de son prochain entrainement. Tout tutoiement peut donner lieu à une bière offerte à celui qui décèle la faute (de vouvoiement). Par ailleurs, la Freezeberg, s’il le souhaite, offrira à l’équipe un paquet de gâteaux apéro pour la bière d’après entrainement.
+La Freezeberg gagne l’obligation de vouvoyer ses coéquipiers lors de son prochain entraînement. Tout tutoiement peut donner lieu à une bière offerte à celui qui décèle la faute (de vouvoiement). Par ailleurs, la Freezeberg, s’il le souhaite, offrira à l’équipe un paquet de gâteaux apéro pour la bière d’après entraînement.
 
 Lorsqu’un coach est désigné, peu importe son statut, il est le référent de l’équipe. Par conséquent, tous les joueurs doivent le respecter, ainsi que ses choix et consignes. Le coach fait partie intégrante de l’équipe, donne de son temps et doit être, par conséquent, respecté. Il peut exister des désaccords entre joueurs et coach, pensez bien à mettre les formes dans ce cas, pour avoir une discussion constructive. Un coach, comme les joueurs, peut commettre des erreurs et donc, pour avancer ensemble, une chose : le dialogue, le dialogue, le dialogue !
 
@@ -158,17 +158,17 @@ Tout comportement anti-sportif à l’encontre d’un partenaire est très sév�
 
 # Tous ensemble pour un vrai collectif
 
-Je ne vais pas épiloguer longtemps sur ce sujet. Tous ceux qui étaient au club les années passées savent que nous sommes des équipes de compétition. À chacun d’essayer, tout au moins de venir, un maximum à l’entrainement, pour que les équipes et vous progressiez.
+Je ne vais pas épiloguer longtemps sur ce sujet. Tous ceux qui étaient au club les années passées savent que nous sommes des équipes de compétition. À chacun d’essayer, tout au moins de venir, un maximum à l’entraînement, pour que les équipes et vous progressiez.
 
 Nous avons de nouveaux joueurs talentueux qui nous rejoignent chaque saison : à nous de travailler pour constituer deux équipes compétitives avec des ambitions, car nous jouons pour gagner et pour nous faire plaisir.
 
-Le soft d’après entrainement reste à 1 €. La bière, elle, passe à un tarif progressif : 1 € la première, 2 € la deuxième, puis 50 cts de plus par bière supplémentaire (soit 2,50 € la troisième, 3 € la quatrième, et ainsi de suite).
+Le soft d’après entraînement reste à 1 €. La bière, elle, passe à un tarif progressif : 1 € la première, 2 € la deuxième, puis 50 cts de plus par bière supplémentaire (soit 2,50 € la troisième, 3 € la quatrième, et ainsi de suite).
 
 Il y aura bien évidemment les événements conviviaux auxquels vous avez la possibilité de participer et de donner un coup de main : le repas de mi-saison (aux alentours de Noël), galettes des rois, bières saisonnières, week-end de fin de saison (le plus souvent le 1ᵉʳ weekend de juin).
 
 Tous ceux qui souhaitent s’investir dans le groupe sont les bienvenus. Nous cherchons des teneurs de cagnottes, des personnes motivées pour les jeux ludiques qui permettent de vivre une belle saison tous ensemble.
 
-Mais le plaisir vient également avec des victoires en matchs, avec du monde à nous soutenir, des ambiances de bière d’après match (après une victoire…), mais pour cela, il faut travailler avec sérieux durant les entrainements.
+Mais le plaisir vient également avec des victoires en matchs, avec du monde à nous soutenir, des ambiances de bière d’après match (après une victoire…), mais pour cela, il faut travailler avec sérieux durant les entraînements.
 
 Le cochon fait crédit, mais merci d’éponger régulièrement vos dettes.
 
@@ -180,7 +180,7 @@ Prise d’effet de ce règlement dès le mardi 1 septembre 2026 à 00 H 00.
 
 Date butoir, avant amende, pour faire les démarches administratives : le mercredi 9 septembre 2026 23 H 59.
 
-Pour les nouveaux venus, vous avez un mois pour faire les démarches, après votre 1ᵉʳ entrainement.
+Pour les nouveaux venus, vous avez un mois pour faire les démarches, après votre 1ᵉʳ entraînement.
 
 Bonne saison à tous et à très vite sur les terrains.
 
@@ -194,9 +194,9 @@ Ronan.
 
 ## Les amendes et la caisse noire
 
-Les amendes ne sont pas là pour punir, ni pour remplir un tiroir. Elles servent à rappeler, avec le sourire, que chacun compte pour le groupe : une absence non signalée, un sondage sans réponse ou un oubli de matériel a toujours une conséquence pour les autres, qu’il s’agisse d’un entrainement mal préparé, d’une équipe incomplète ou d’un coach obligé d’improviser. L’amende est simplement la façon la plus légère que nous ayons trouvée de le signaler.
+Les amendes ne sont pas là pour punir, ni pour remplir un tiroir. Elles servent à rappeler, avec le sourire, que chacun compte pour le groupe : une absence non signalée, un sondage sans réponse ou un oubli de matériel a toujours une conséquence pour les autres, qu’il s’agisse d’un entraînement mal préparé, d’une équipe incomplète ou d’un coach obligé d’improviser. L’amende est simplement la façon la plus légère que nous ayons trouvée de le signaler.
 
-L’intégralité des sommes récoltées alimente la caisse noire du groupe, et elle est entièrement redépensée pour le collectif : bière ou soft d’après entrainement, gâteaux apéro, repas de mi-saison, galette des rois, week-end de fin de saison. Rien ne sort du groupe et personne ne s’enrichit.
+L’intégralité des sommes récoltées alimente la caisse noire du groupe, et elle est entièrement redépensée pour le collectif : bière ou soft d’après entraînement, gâteaux apéro, repas de mi-saison, galette des rois, week-end de fin de saison. Rien ne sort du groupe et personne ne s’enrichit.
 
 Le principe est donc simple : plus nous sommes rigoureux, moins nous payons ; et si le cochon se remplit malgré tout, c’est le groupe qui en profite. Les astérisques (\*) présents tout au long du règlement renvoient au barème ci-dessous. Ces montants ont été validés collectivement et peuvent évoluer, sous accord de la majorité du groupe.
 
@@ -206,23 +206,23 @@ Le principe est donc simple : plus nous sommes rigoureux, moins nous payons ; et
 
 #### Article 1.1 – Réponses aux sondages
 
-Toute absence de réponse à un sondage (entrainement, match, …) est sanctionnée d’une amende de 1 €.
+Toute absence de réponse à un sondage (entraînement, match, …) est sanctionnée d’une amende de 1 €.
 
 #### Article 1.2 – Changement de réponse tardif
 
-Toute modification d’une réponse déjà donnée à un sondage, moins de 24 heures avant l’entrainement ou le match concerné, est sanctionnée d’une amende de 2 € et doit être justifiée auprès du groupe. La justification est appréciée par la cour judiciaire, dans les conditions prévues à l’article 3.3.
+Toute modification d’une réponse déjà donnée à un sondage, moins de 24 heures avant l’entraînement ou le match concerné, est sanctionnée d’une amende de 2 € et doit être justifiée auprès du groupe. La justification est appréciée par la cour judiciaire, dans les conditions prévues à l’article 3.3.
 
-#### Article 1.3 – Absence à l’entrainement
+#### Article 1.3 – Absence à l’entraînement
 
-Toute absence à l’entrainement non signalée par SMS, hors situation exceptionnelle, est sanctionnée d’une amende de 3 €.
+Toute absence à l’entraînement non signalée par SMS, hors situation exceptionnelle, est sanctionnée d’une amende de 3 €.
 
 #### Article 1.4 – Absence au match
 
 Toute absence au match non signalée par SMS, hors situation exceptionnelle, est sanctionnée d’une amende de 5 €.
 
-#### Article 1.5 – Retard à l’entrainement
+#### Article 1.5 – Retard à l’entraînement
 
-Tout retard à l’entrainement non prévenu par SMS et en temps utile est sanctionné d’une amende de 2 €. L’amende est appliquée par défaut ; il appartient au retardataire de la contester devant la cour judiciaire du groupe, dans les conditions prévues à l’article 3.3.
+Tout retard à l’entraînement non prévenu par SMS et en temps utile est sanctionné d’une amende de 2 €. L’amende est appliquée par défaut ; il appartient au retardataire de la contester devant la cour judiciaire du groupe, dans les conditions prévues à l’article 3.3.
 
 #### Article 1.6 – Carton rouge hors contestation
 
@@ -238,7 +238,7 @@ Toute exclusion de deux minutes pour contestation est sanctionnée d’une amend
 
 #### Article 1.9 – Oubli de matériel
 
-L’oubli de matériel est sanctionné d’une amende de 3 € lorsqu’il survient à un match et de 1 € lorsqu’il survient à un entrainement.
+L’oubli de matériel est sanctionné d’une amende de 3 € lorsqu’il survient à un match et de 1 € lorsqu’il survient à un entraînement.
 
 #### Article 1.10 – Résumé de match
 
@@ -258,7 +258,7 @@ Tout membre du groupe peut dénoncer une fraude au présent barème. La dénonci
 
 #### Article 1.14 – Touche pas à mon poteau
 
-Tout ballon envoyé dans la tête d’un de nos gardiens, à l’entrainement comme en match, est sanctionné d’une amende de 2 €. Le gardien est une espèce protégée.
+Tout ballon envoyé dans la tête d’un de nos gardiens, à l’entraînement comme en match, est sanctionné d’une amende de 2 €. Le gardien est une espèce protégée.
 
 #### Article 1.15 – Le maillot fait le moine
 
@@ -276,7 +276,7 @@ Le « petit vélo » est sanctionné d’une amende de 6 €. Le montant est r�
 
 #### Article 2.3 – Passoire ou panne sèche
 
-Toute rencontre au cours de laquelle l’équipe encaisse plus de 30 buts, ou en marque moins de 20, est sanctionnée d’une amende de 1 € pour chaque joueur de l’équipe concernée. À l’inverse, une rencontre bouclée avec moins de 30 buts encaissés et plus de 20 buts marqués met 10 € à la charge du groupe de gestion, au profit de la caisse noire.
+Toute rencontre au cours de laquelle l’équipe encaisse plus de 30 buts, ou en marque moins de 20, est sanctionnée d’une amende de 1 € pour chaque joueur de l’équipe concernée. À l’inverse, une rencontre bouclée avec moins de 20 buts encaissés et plus de 30 buts marqués met 10 € à la charge du groupe de gestion, au profit de la caisse noire.
 
 #### Article 2.4 – Back to back, back to caisse
 
@@ -292,7 +292,7 @@ Quitter le vestiaire ou la salle avant le vote de la Goodberg et de la Freezeber
 
 #### Article 2.7 – Partir sans laisser d’adresse
 
-Quitter l’entrainement sans saluer ses coéquipiers est sanctionné d’une amende de 0,50 €.
+Quitter l’entraînement sans saluer ses coéquipiers est sanctionné d’une amende de 0,50 €.
 
 ### Chapitre III – Dispositions générales
 
@@ -306,9 +306,9 @@ Les montants du présent barème peuvent évoluer en cours de saison, sous rése
 
 #### Article 3.3 – Cour judiciaire
 
-Les amendes pour retard et pour changement de réponse tardif, à l’entrainement comme au match, sont appliquées par défaut, sans avertissement préalable. Le joueur qui s’estime injustement sanctionné, ou qui doit justifier un changement de réponse, saisit la cour judiciaire en prévenant un encadrant par SMS ou WhatsApp.
+Les amendes pour retard et pour changement de réponse tardif, à l’entraînement comme au match, sont appliquées par défaut, sans avertissement préalable. Le joueur qui s’estime injustement sanctionné, ou qui doit justifier un changement de réponse, saisit la cour judiciaire en prévenant un encadrant par SMS ou WhatsApp.
 
-La cour est composée des encadrants présents et de joueurs volontaires. Elle siège en présentiel, à l’occasion de la bière d’après entrainement, entend l’intéressé et apprécie les circonstances au cas par cas (transports, contrainte professionnelle, imprévu, bonne ou mauvaise foi). Elle peut maintenir, réduire ou annuler l’amende, ou la majorer en cas de mauvaise foi manifeste. Sa décision est sans appel.
+La cour est composée des encadrants présents et de joueurs volontaires. Elle siège en présentiel, à l’occasion de la bière d’après entraînement, entend l’intéressé et apprécie les circonstances au cas par cas (transports, contrainte professionnelle, imprévu, bonne ou mauvaise foi). Elle peut maintenir, réduire ou annuler l’amende, ou la majorer en cas de mauvaise foi manifeste. Sa décision est sans appel.
 
 La saisine de la cour n’est recevable que si le joueur est à jour de ses amendes : toute dette antérieure doit être soldée avant de contester une nouvelle sanction. Pas de casier vierge, pas de plaidoirie.
 
@@ -318,7 +318,7 @@ Le joueur qui perd son procès voit son amende majorée de 100 % de son montant 
 
 #### Article 4.1 – Freezeberg
 
-Le joueur désigné Freezeberg d’un match vouvoie l’ensemble de ses coéquipiers lors du premier entrainement auquel il participe ensuite. Tout tutoiement peut donner lieu à une bière offerte à celui qui décèle la faute.
+Le joueur désigné Freezeberg d’un match vouvoie l’ensemble de ses coéquipiers lors du premier entraînement auquel il participe ensuite. Tout tutoiement peut donner lieu à une bière offerte à celui qui décèle la faute.
 
 #### Article 4.2 – Goodberg
 
